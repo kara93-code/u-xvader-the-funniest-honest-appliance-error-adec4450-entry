@@ -1,7 +1,12 @@
 # The Funniest Honest Appliance Error
 
+[![make.fun · u-xvader-the-funniest-honest-appliance-error-adec4450](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![rank](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/kara93-code/u-xvader-the-funniest-honest-appliance-error-adec4450-entry/rank.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
+[![reward](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/kara93-code/u-xvader-the-funniest-honest-appliance-error-adec4450-entry/reward.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
+
 make.fun entry for
-`u-xvader-the-funniest-honest-appliance-error-adec4450`.
+`u-xvader-the-funniest-honest-appliance-error-adec4450` — see the bounty at
+https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450.
 
 A dishwasher, in its own flat machine voice, finally admits what it has
 been hiding: a fork stuck in its filter since March — and why it stayed
